@@ -1,0 +1,28 @@
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\Website.dll
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\Website.pdb
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\EntityFramework.dll
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\HelperLibrary.dll
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\SRVTextToImage.dll
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\HelperLibrary.pdb
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\bin\EntityFramework.xml
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\obj\Release\OnlineBooksRental.csprojResolveAssemblyReference.cache
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\obj\Release\Website.dll
+C:\Users\Nitin sharma\Documents\Visual Studio 2012\Projects\Sindhu\Website\obj\Release\Website.pdb
+E:\satish\Website\bin\Website.dll
+E:\satish\Website\bin\Website.pdb
+E:\satish\Website\obj\Release\OnlineBooksRental.csprojResolveAssemblyReference.cache
+E:\satish\Website\obj\Release\Website.dll
+E:\satish\Website\obj\Release\Website.pdb
+E:\GitHub\Online Rental Project\Client\obj\Release\OnlineBooksRental.csprojResolveAssemblyReference.cache
+E:\GitHub\Online Rental Project\Client\obj\Release\Website.dll
+E:\GitHub\Online Rental Project\Client\bin\Website.dll
+E:\GitHub\Online Rental Project\Client\bin\Website.pdb
+E:\GitHub\Online Rental Project\Client\bin\SRVTextToImage.dll
+E:\GitHub\Online Rental Project\Client\obj\Release\Website.pdb
+E:\satish\full\Client\bin\Website.dll
+E:\satish\full\Client\bin\Website.pdb
+E:\satish\full\Client\obj\Release\Website.dll
+E:\satish\full\Client\obj\Release\Website.pdb
+E:\satish\full\Client\bin\HelperLibrary.dll
+E:\satish\full\Client\bin\HelperLibrary.pdb
+E:\GitHub\Online Rental Project\Client\bin\HelperLibrary.pdb

@@ -1,0 +1,7 @@
+E:\GitHub\Online Rental Project\Client\bin\Website.dll
+E:\GitHub\Online Rental Project\Client\bin\Website.pdb
+E:\GitHub\Online Rental Project\Client\bin\SRVTextToImage.dll
+E:\GitHub\Online Rental Project\Client\bin\HelperLibrary.pdb
+E:\GitHub\Online Rental Project\Client\obj\Debug\OnlineBooksRental.csprojResolveAssemblyReference.cache
+E:\GitHub\Online Rental Project\Client\obj\Debug\Website.dll
+E:\GitHub\Online Rental Project\Client\obj\Debug\Website.pdb
